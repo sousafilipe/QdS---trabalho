@@ -48,6 +48,7 @@ CREATE TABLE pedidos (
     FOREIGN KEY (entregador_id) REFERENCES entregadores(id)
 );
 
+-- tabela cartoes
 
 CREATE TABLE cartoes (
     id SERIAL PRIMARY KEY,
