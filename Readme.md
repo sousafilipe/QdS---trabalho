@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto foi criado para a disciplina de Qualidade de software, e esse projeto é a refatoração e reengenharia do código do projeto integrador "Itadelivery", um aplicativo fictício de entregas. O projeto inicialmente continha código procedural e organizado em pastas, que foi transformado em um modelo orientado a objetos (POO) usando a arquitetura Modelo-Visão-Controlador (MVC).
+Este projeto foi criado para a disciplina de Qualidade de software pela UFC, e esse projeto é a refatoração e reengenharia do código do projeto integrador "Itadelivery", um aplicativo fictício de entregas. O projeto inicialmente continha código procedural e organizado em pastas, que foi transformado em um modelo orientado a objetos (POO) usando a arquitetura Modelo-Visão-Controlador (MVC).
 
 ![Portal da UFC - Universidade Federal do Ceará - Assinatura Horizontal do  Brasão da UFC](https://www.ufc.br/images/_images/a_universidade/identidade_visual/brasao/brasao1_horizontal_cor_72dpi.png)
 
