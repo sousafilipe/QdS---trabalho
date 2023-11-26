@@ -1,21 +1,26 @@
-# views.py
+""" Esse arquivo é responsável pelas views """
 
-# View (neste caso, muito simples)
+
 class ClienteView:
+    """ Classe View do cliente """
     def mostrar_mensagem(self, mensagem):
+        """ Método View do cliente para mostrar mensagem """
         print(mensagem)
 
-# View (neste caso, muito simples)
 class CartaoView:
+    """ Classe View do cartão """
     def mostrar_mensagem(self, mensagem):
+        """ Método View do cartao para mostrar mensagem """
         print(mensagem)
 
-# View (neste caso, muito simples)
 class EntregadorView:
+    """ Classe View do Entregador """
     def mostrar_mensagem(self, mensagem):
+        """ Método View do entregador para mostrar mensagem """
         print(mensagem)
 
-# View (neste caso, muito simples)
 class UsuarioView:
+    """ Classe View do usuario """
     def mostrar_mensagem(self, mensagem):
+        """ Método View do usuario para mostrar mensagem """
         print(mensagem)

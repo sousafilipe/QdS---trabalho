@@ -1,8 +1,9 @@
-# main.py
+""" Pika e o modulo reponsavel pela interacao com o rabbitmq """
 import pika
 from backend.models import VeiculoModel, CartaoModel, ClienteModel, EntregadorModel, UsuarioModel
 from backend.views import ClienteView, CartaoView, EntregadorView, UsuarioView
-from backend.controllers import VeiculoController, CartaoController, ClienteController, EntregadorController, UsuarioController
+from backend.controllers import VeiculoController, CartaoController, \
+    ClienteController,EntregadorController, UsuarioController
 
 # Configurações do banco de dados
 database_config = {
