@@ -38,5 +38,8 @@ As configurações do banco de dados PostgreSQL e do RabbitMQ podem ser ajustada
 
 Este projeto é um exercício de refatoração do código para o projeto integrador "Itadelivery", um aplicativo de entregas. O código original era procedural e foi transformado em POO, seguindo a arquitetura MVC. Este repositório contém apenas o código referente ao backend e um teste na main.
 
+Professor Anderson disse pra estudar mais sobre:
+**
+
 Em um ambiente de produção, você precisaria expandir e adaptar o código de acordo com os requisitos específicos do seu projeto.
 
